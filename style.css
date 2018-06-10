@@ -1,0 +1,85 @@
+body {
+
+	background-image: url("http://orig15.deviantart.net/e4a4/f/2008/119/b/2/ladybug___vintage_by_vxside.jpg") ;
+	background-size: cover;
+	background-size: contain;
+	opacity: 30% ;
+
+}
+
+
+ul{
+	
+	width: 96%;
+	top:0px;
+	height: 32px;
+	text-align: center;
+	display: table;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 18px;
+	line-height: 1.43;
+	margin-top: 80px;
+
+	
+
+}
+ li{
+	display: inline-block;
+	box-sizing: border-box;
+	color: black;
+	padding-right: 1.3em ;
+
+}
+
+li:hover{
+	border-bottom: 1px solid grey;
+	cursor: pointer;
+	text-decoration: white;
+
+}
+
+table {
+	margin-top: 90px;
+	color: black;
+}
+
+form {
+
+	text-align: center;
+	color: black;
+}
+
+@font-face {
+
+    font-family: 'JustSignature';
+
+    src: url('JustSignature.ttf') format('truetype') ;
+
+}
+
+h1 {
+
+
+    font-family: 'JustSignature';
+    text-align: center;
+
+}
+
+h3 {
+
+	text-align: center;
+}
+
+#page-footer{
+
+background-color: white;
+color: #FFF;
+
+}
+
+footer p
+{
+        text-align: center;
+        color: #FFF;
+        
+}
